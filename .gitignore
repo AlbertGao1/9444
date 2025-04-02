@@ -2,3 +2,10 @@
 venv/
 # Ignore large datasets
 data/
+
+models/
+*.pt
+*.zip
+__pycache__/
+*.pyc
+.venv/
