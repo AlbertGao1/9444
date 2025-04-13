@@ -5,7 +5,8 @@ venv/
 data/
 
 # Ignore model outputs
-models/
+models/simple_cnn.pth
+models/9layer_cnn.pth
 *.pt
 *.zip
 
